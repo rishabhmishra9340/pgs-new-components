@@ -1,0 +1,458 @@
+
+#banner{
+    width: 100%;
+    height: 80%;
+    background-image: url("/img.webp") ;
+
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+   
+   
+    
+}
+
+#text{
+    color:white;
+    text-align: center;
+
+font-size: 25px;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+width: 75%;
+margin: auto;
+text-transform:capitalize;
+}
+#p1{
+            font-size: 23px;
+            padding-top: 30px;
+            padding-bottom: 20px;
+}
+h3{
+    font-size: 30px;
+}
+h2{
+    font-weight: 700;
+}
+#b1{
+
+    border-radius: 25px;
+    padding: 12px 20px;
+    font-size: 20px;
+    background-color: rgb(216, 150, 44);
+    position: relative;
+    right: 20px;
+}
+#b2 {
+  
+        border-radius: 25px;
+        padding: 12px 20px;
+        font-size: 20px;
+  background-color: black;
+  color: white;
+    }
+        .cards {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            grid-gap: 40px;
+            margin: 10px;
+            padding: 48px;
+            
+        }
+    .bottom{
+        font-size: 50px;
+        
+        position: relative;
+        top: 160px;
+        text-align: center;
+    }    
+  #d1{
+        height:300px;
+            width: 345px;
+        background-color: rgb(86, 46, 46);
+        background-image: url('images\ \(1\).jpeg');
+        background-size: cover;
+            background-repeat: no-repeat;
+        color: white;
+        margin-left: 50px;
+    text-align: center;
+    font-size:40px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-transform: capitalize;
+    border-radius: 25px;
+    position: relative;
+    left: -10px;
+   }
+  #d2 {
+      height: 300px;
+        width: 345px;
+      background-color: rgb(86, 46, 46);
+      background-image: url('/school.jpeg');
+      background-size: cover;
+      background-repeat: no-repeat;
+      color: white;
+      margin-left: 50px;
+      text-align: center;
+      font-size: 40px;
+      font-family: Verdana, Geneva, Tahoma, sans-serif;
+      text-transform: capitalize;
+      border-radius: 25px;
+position: relative;
+    left: -40px;
+  }
+   #d3 {
+       height: 300px;
+        width: 345px;
+       background-color: rgb(86, 46, 46);
+       background-image: url('/1.webp');
+       background-size: cover;
+       background-repeat: no-repeat;
+       color: white;
+       margin-left: 50px;
+       text-align: center;
+       font-size: 40px;
+       font-family: Verdana, Geneva, Tahoma, sans-serif;
+       text-transform: capitalize;
+       border-radius: 25px;
+position: relative;
+left: -60px;
+   }
+   #d4 {
+       height:300px;
+        width: 345px;
+       background-color: rgb(86, 46, 46);
+       background-image: url('/img.webp');
+       background-size: cover;
+       background-repeat: no-repeat;
+       color: white;
+       margin-left: 50px;
+       text-align: center;
+       font-size: 40px;
+       font-family: Verdana, Geneva, Tahoma, sans-serif;
+       text-transform: capitalize;
+       border-radius: 25px;
+position: relative;
+    left: -10px;
+   }
+        #d5 {
+            height: 300px;
+                width: 345px;
+            background-color: rgb(86, 46, 46);
+            background-image: url('/img.webp');
+            background-size: cover;
+            background-repeat: no-repeat;
+            color: white;
+            margin-left: 50px;
+            text-align: center;
+            font-size: 40px;
+            font-family: Verdana, Geneva, Tahoma, sans-serif;
+            text-transform: capitalize;
+            border-radius: 25px;
+    position: relative;
+        left: -40px;
+        }
+   #d6 {
+       height: 300px;
+        width: 345px;
+       background-color: rgb(86, 46, 46);
+       background-image: url('/img.webp');
+       background-size: cover;
+       background-repeat: no-repeat;
+       color: white;
+       margin-left: 50px;
+       text-align: center;
+       font-size: 40px;
+       font-family: Verdana, Geneva, Tahoma, sans-serif;
+       text-transform: capitalize;
+       border-radius: 25px;
+position: relative;
+    left: -60px;
+   }
+   h2{
+    text-align: center;
+    font-size: 50px;
+   }
+   #head{
+    font-size: 30px;
+    text-align: center;
+    position: relative;
+    top: 1px;
+   }
+
+.container{
+    width: 80%;
+    position: relative;
+    left:10%;
+}
+.container2{
+    color: black;
+    font-size: 22px;
+    width: 80%;
+        position: relative;
+        left: 10%;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.sub{
+    width:100%;
+    height: 1175px;
+    background-color:rgba(79, 74, 173, 0.743);
+    text-align: center;
+    font-size: 50px;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.content{
+    width: 80%;
+    height: 1000px;
+    background-color:black;
+    border-radius: 25px;
+    position: relative;
+    left: 10%;
+    top: 50px;
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-gap: 0px;
+    font-size: 15px;
+
+}
+.row1{
+    width: 150px;
+    height: 130px;
+    background-color: black;
+    text-align: center;
+    position: relative;
+    top: 10%;
+    
+    
+
+}
+.row2 {
+    width:150px;
+        height: 130px;
+    background-color:black;
+        
+}
+.row3{
+width: 150px;
+    height: 250px;
+    background-color:black;
+
+}
+.row4 {
+width: 150px;
+    height: 150px;
+    background-color: black;
+        
+}
+.row5 {
+    width: 150px;
+        height: 150px;
+    background-color:black;
+}
+#left{
+    background-color:rgba(203, 156, 25, 0.65);
+    border-radius: 25px;
+    width: 280px;
+position: relative;
+left: 8px;
+font-size: 20px;
+color: black;
+transform: -50px;
+translate: -50px;
+display: inline-block;
+}
+.centre{
+    position: relative;
+    top: 25%;
+    text-align: center;
+}
+.container3{
+    width: 1175px;
+    height:800px;
+    background-color: black;
+    border-radius: 25px;
+    position: relative;
+    left:4%;
+    top: 10%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-transform: capitalize;
+  color: white;
+    
+}
+.logo{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    position: relative;
+    left: 6%;
+    top: 6%;
+}
+.r1{
+    width: 50px;
+    height: 50px;
+    border-color: rgb(248, 246, 245);
+    border-radius: 25px;
+
+    color: white;
+}
+.r2 {
+    width: 50px;
+    height: 50px;
+    border-color: rgb(247, 246, 245);
+    border-radius: 25px;
+   position: relative;
+   top: 50px;
+    color: white;
+}
+#one{
+    background-color:black;
+    border-color: rgb(247, 244, 244);
+    border-width: 10px;
+    border-style: groove;
+    width:250px;
+    height: 250px;
+    font-size: 40px;
+    
+}
+#two {
+    background-color: black;
+    border-color: rgb(225, 214, 214);
+    border-width: 10px;
+    border-style: groove;
+    width: 250px;
+    height: 250px;
+    font-size: 40px;
+    
+    
+}
+#three {
+    background-color: black;
+    border-color: rgb(225, 214, 214);
+    border-width: 10px;
+    border-style: groove;
+    width: 250px;
+    height: 250px;
+    font-size: 40px;
+   
+    
+}
+#four{
+    background-color: black;
+    border-color: rgb(225, 214, 214);
+    border-width: 10px;
+    border-style: groove;
+    width: 250px;
+    height: 250px;
+    font-size: 40px;
+}
+#five{
+    background-color: black;
+    border-color: rgb(225, 214, 214);
+    border-width: 10px;
+    border-style: groove;
+    width: 250px;
+    height: 250px;
+    font-size: 40px;
+}
+#six{
+    background-color: black;
+    border-color: rgb(225, 214, 214);
+    border-width: 10px;
+    border-style: groove;
+    width: 250px;
+    height: 250px;
+    font-size: 40px;
+}
+h5{
+    position: relative;
+    top: 100px;
+    text-align: center;
+}
+#bg1{
+    width: 100px;
+    height: 100px;
+    border-color: white;
+    border-width: 2px;
+    border-style: double;
+    position:absolute;
+    top:9%;
+    left: 6%;
+    background-image: url('/primary section/th.jpeg');
+        background-size: cover;
+        background-repeat: no-repeat;
+}
+#bg2 {
+    width: 100px;
+    height: 100px;
+    border-color: white;
+    border-width: 2px;
+    border-style: double;
+    position: absolute;
+    top: 9%;
+    left: 478px;
+    background-image: url('/primary section/dance.png');
+    background-size: cover;
+}
+#bg3 {
+    width: 100px;
+    height: 100px;
+    border-color: white;
+    border-width: 2px;
+    border-style: double;
+    position: absolute;
+    top: 8%;
+    left: 73%;
+        background-image: url('/primary section/pb.jpeg');
+            background-size: cover;
+}
+#bg4 {
+    width: 100px;
+    height: 100px;
+    border-color: white;
+    border-width: 2px;
+    border-style: double;
+    position: absolute;
+    top: 11%;
+    left: 28%;
+        background-image: url('/primary section/ph.jpg');
+            background-size: cover;
+}
+#bg5 {
+    width: 100px;
+    height: 100px;
+    border-color: white;
+    border-width: 2px;
+    border-style: double;
+    position: absolute;
+    top: 14%;
+    left: 76px;
+        background-image: url('/primary section/pt.jpg');
+            background-size: cover;
+}
+#bg6 {
+    width: 100px;
+    height: 100px;
+    border-color: white;
+    border-width: 2px;
+    border-style: double;
+    position: absolute;
+    top: 14%;
+    left: 77px;
+        background-image: url('/primary section/m.jpg');
+            background-size: cover;
+}
+#title{
+    padding-top: 20px;
+}
+.container4{
+    width:1178px;
+        height: 500px;
+        background-color: rgb(175, 230, 212);
+        position: relative;
+        top: 10%;
+        left: 4%;
+        text-transform: capitalize;
+        
+}
+.pg{
+    font-size: 26px;
+    justify-content: center;
+}

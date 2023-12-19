@@ -1,0 +1,135 @@
+#main{
+    font-size: 40px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    
+}
+#p1{
+    font-size: 20px;
+    text-align: center;
+
+}
+#b1{
+    background-color: yellow;
+    color: black;
+    border-radius: 25px;
+    text-align: center;
+    position: relative;
+    left: 41%;
+        font-size: 18px;
+            padding: 10px
+}
+#b2 {
+    background-color:black;
+    color:white;
+    border-radius: 25px;
+    text-align: center;
+    position: relative;
+    left: 49%;
+        font-size: 18px;
+            padding: 10px
+
+}
+.head{
+    font-size: 26px;
+    position: absolute;
+    top: 58%;
+    left: 10%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    text-transform: capitalize;
+}
+.container{
+    width: 100%;
+    height: 1000px;
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    position: absolute;
+    left: 89px;
+}
+.card{
+    width: 300px;
+    height: 250px;
+    background-color:white;
+    border-color: grey;
+    border-style: double;
+    color: black;
+        position: relative;
+            left: 15%;
+            top: 10%;
+            border-radius: 10px;
+}
+#box1{
+    
+}
+#im1{
+    width: 250px;
+    height: 153px;
+    background-image: url('/pb.jpeg');
+    position: relative;
+    left: 5%;
+    top: 10%;
+}
+#box2{
+    position: relative;
+    left: -7%;
+}
+#im2 {
+    width: 250px;
+    height: 153px;
+    background-image: url('/pb.jpeg');
+    position: relative;
+    left: 5%;
+    top: 10%;
+}
+#box3 {
+    position: relative;
+    left: -29%;
+}
+#im3 {
+    width: 250px;
+    height: 153px;
+    background-image: url('/pb.jpeg');
+    position: relative;
+    left: 5%;
+    top: 10%;
+}
+#box4 {
+    position: relative;
+    left: 15%;
+    top: -156px;
+}
+#im4 {
+    width: 250px;
+    height: 153px;
+    background-image: url('/pb.jpeg');
+    position: relative;
+    left: 5%;
+    top: 10%;
+}
+#box5 {
+    position: relative;
+    left: -7%;
+    top: -156px;
+}
+#im5 {
+    width: 250px;
+    height: 153px;
+    background-image: url('/pb.jpeg');
+    position: relative;
+    left: 5%;
+    top: 10%;
+}
+#box6 {
+    position: relative;
+    left: -29%;
+    top: -156px;
+}
+#im6 {
+    width: 250px;
+    height: 153px;
+    background-image: url('/pb.jpeg');
+    position: relative;
+    left: 5%;
+    top: 10%;
+}

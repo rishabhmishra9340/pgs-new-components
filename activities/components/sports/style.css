@@ -1,0 +1,235 @@
+* {
+    padding: 0%;
+    margin: 0%;
+}
+
+.banner {
+    width: 100%;
+    height: 500px;
+    background-image: url("/art/img.jpg");
+
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    color: white;
+
+}
+
+h3 {
+    padding: 31px;
+}
+
+#p1 {
+    padding: 15px;
+}
+
+.text {
+    width: 80%;
+    height: 450px;
+    position: relative;
+    left: 10%;
+    top: 15%;
+    color: white;
+    text-align: center;
+    justify-content: center;
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-transform: capitalize;
+}
+
+#b1 {
+    padding: 10px;
+    font-size: 18px;
+    background-color: rgb(30, 25, 25);
+    color: white;
+    border-radius: 20px;
+    position: relative;
+    top: 10%;
+}
+.container{
+        padding-left: 8%;
+        padding-top: 5%;
+            padding-right: 8%;
+            width: 1000px;
+            height: 1000px;
+            margin-right: auto;
+            margin-left: auto;
+            font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#head{
+    text-align: center;
+    text-transform: capitalize;
+    font-size: 30px;
+}
+p{
+    padding-top: 3%;
+}
+.container2 {
+    width: 100%;
+    height: 1135px;
+    justify-content: center;
+    text-align: center;
+    margin-top: 20%;
+
+}
+
+#h3 {
+    font-size: 40px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-transform: capitalize;
+    position: relative;
+    top: 5%;
+}
+
+.img {
+    width: 100%;
+    height: 250px;
+    position: relative;
+    top: 10%;
+    left: 15%;
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    grid-gap: 10px;
+}
+
+#one {
+    width: 216px;
+    height: 200px;
+    background-image: url('/art/1.jpg');
+    border-radius: 10px;
+    position: relative;
+    
+}
+
+#two {
+    width: 216px;
+    height: 200px;
+    background-image: url('/art/1.jpg');
+    border-radius: 10px;
+    position: relative;
+    left: -30%;
+}
+
+#three {
+    width: 216px;
+    height: 200px;
+    background-image: url('/art/1.jpg');
+    border-radius: 10px;
+    position: relative;
+    left: -60%;
+}
+
+#four {
+    width: 216px;
+    height: 200px;
+    background-image: url('/art/1.jpg');
+    border-radius: 10px;
+    position: relative;
+    left: -90%;
+}
+
+#five {
+    width: 216px;
+    height: 200px;
+    background-image: url('/art/1.jpg');
+    border-radius: 10px;
+    position: relative;
+    top: 10%;
+}
+#six{
+    width: 216px;
+    height: 200px;
+    background-image: url('/art/1.jpg');
+    border-radius: 10px;
+    position: relative;
+    left: -30%;
+    top: 10%;
+}
+#seven {
+    width: 216px;
+    height: 200px;
+    background-image: url('/art/1.jpg');
+    border-radius: 10px;
+    position: relative;
+    left: -60%;
+    top: 10%;
+}
+#eigth {
+    width: 216px;
+    height: 200px;
+    background-image: url('/art/1.jpg');
+    border-radius: 10px;
+    position: relative;
+    left: -90%;
+    top: 10%;
+}
+#nine {
+    width: 216px;
+    height: 200px;
+    background-image: url('/art/1.jpg');
+    border-radius: 10px;
+    position: relative;
+    top: 20%;
+}
+#ten {
+    width: 216px;
+    height: 200px;
+    background-image: url('/art/1.jpg');
+    border-radius: 10px;
+    position: relative;
+    left: -30%;
+    top: 20%;
+}
+#eleven {
+    width: 216px;
+    height: 200px;
+    background-image: url('/art/1.jpg');
+    border-radius: 10px;
+    position: relative;
+    left: -60%;
+    top: 20%;
+}
+#twelve {
+    width: 216px;
+    height: 200px;
+    background-image: url('/art/1.jpg');
+    border-radius: 10px;
+    position: relative;
+    left: -90%;
+    top: 20%;
+}
+#thir {
+    width: 216px;
+    height: 200px;
+    background-image: url('/art/1.jpg');
+    border-radius: 10px;
+    position: relative;
+    top: 30%;
+}
+#fourt{
+    width: 216px;
+    height: 200px;
+    background-image: url('/art/1.jpg');
+    border-radius: 10px;
+    position: relative;
+    left: -30%;
+    top: 30%;
+}
+#fift {
+    width: 216px;
+    height: 200px;
+    background-image: url('/art/1.jpg');
+    border-radius: 10px;
+    position: relative;
+    left: -60%;
+    top: 30%;
+}
+#sixt {
+    width: 216px;
+    height: 200px;
+    background-image: url('/art/1.jpg');
+    border-radius: 10px;
+    position: relative;
+    left: -90%;
+    top: 30%;
+}
